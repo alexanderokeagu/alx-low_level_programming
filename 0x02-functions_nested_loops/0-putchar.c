@@ -3,11 +3,11 @@
 /**
  * main - Entry point
  *
- * description - writing a program to print putchar
+ * Rwturn: Always 0 (Success)
  */
 
 int main(void)
 {
-	printf("putchar\n");
+	printf("_putchar\n");
 	return (0);
 }
