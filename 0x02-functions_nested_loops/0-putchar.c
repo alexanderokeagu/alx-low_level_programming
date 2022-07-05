@@ -4,10 +4,11 @@
 /**
  * main - Entry point
  *
- * Rwturn: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
+/*print _putchar in int main*/
 {
 	printf("_putchar\n");
 	return (0);
