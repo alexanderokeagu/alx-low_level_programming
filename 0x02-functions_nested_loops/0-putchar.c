@@ -1,15 +1,20 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include "main.h"
 
 /**
  * main - Entry point
  *
  * Return: Always 0 (Success)
  */
-
 int main(void)
-/*print _putchar in int main*/
 {
-	printf("_putchar\n");
+	_putchar('_');
+	_putcher('p');
+	_putcher('u');
+	_putcher('t');
+	_putcher('c');
+	_putcher('h');
+	_putcher('e');
+	_putcher('r');
+	_putcher('\n');
 	return (0);
 }
