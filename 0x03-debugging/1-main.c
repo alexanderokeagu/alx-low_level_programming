@@ -9,7 +9,7 @@ int main(void)
 {
 	int i;
 
-	printf("infinite loop imcoming :(\n");
+	printf("Infinite loop imcoming :(\n");
 
 	i = 0;
 	/**
@@ -19,7 +19,7 @@ int main(void)
 	 * }
 	 */
 
-	printf("infinite loop avaoided! \\o/\n");
+	printf("Infinite loop avaoided! \\o/\n");
 
 		return (0);
 }
