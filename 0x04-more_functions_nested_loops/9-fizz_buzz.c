@@ -2,7 +2,7 @@
 
 /**
  * main - check the code
- * Rturn: void
+ * Return: void
  */
 int main(void)
 {
